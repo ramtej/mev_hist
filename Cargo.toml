@@ -1,0 +1,10 @@
+[package]
+name = "mev_hist"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sha3 = "0.10.1"
+sha2 = "0.10.1"
+rand = "0.8.5"
+num = "0.4.0"
